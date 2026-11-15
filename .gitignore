@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+results/*/checkpoint_*
+results/*/cache_heuristica.json
+.venv/

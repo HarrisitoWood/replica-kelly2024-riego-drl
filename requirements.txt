@@ -1,0 +1,10 @@
+aquacrop>=3.0
+aquacropeto>=0.1.1
+gymnasium>=0.29
+stable-baselines3>=2.3
+torch>=2.0
+numpy
+pandas
+scipy
+matplotlib
+tabulate

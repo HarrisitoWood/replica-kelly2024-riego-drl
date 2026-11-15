@@ -1,0 +1,9 @@
+{
+  "escenario": "con_lluvia",
+  "pasos": 300000,
+  "dias_decision": 3,
+  "drl_val": 477.3016178978661,
+  "drl_train": 469.1482351977801,
+  "pasos_mejor": 215040,
+  "minutos": 48.22013699213664
+}

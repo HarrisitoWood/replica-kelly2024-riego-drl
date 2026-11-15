@@ -1,0 +1,3 @@
+escenario,heuristica_train,heuristica_val,drl_train,drl_val,mejora_val_$,mejora_val_%,paper_drl_val,paper_mejora_val_$,umbrales_heuristica
+"Con lluvia, sin tope",514.0,521.7,469.1,477.3,-44.4,-8.5,520.1,-1.27,"[0.7, 0.6, 0.34, 0.0]"
+Tope 75 mm,215.4,214.0,41.1,52.8,-161.2,-75.3,228.0,12.2,"[0.06, 0.45, 0.93, 0.7]"

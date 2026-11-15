@@ -1,0 +1,18 @@
+{
+  "escenario": "tope_75",
+  "pasos": 153600,
+  "dias_decision": 3,
+  "hiperparametros": {
+    "n_steps": 512,
+    "batch": 128,
+    "lr": 0.0003,
+    "epochs": 10,
+    "gae_lambda": 0.95,
+    "ent": 0.0,
+    "seed": 0
+  },
+  "drl_val": 52.83004761266422,
+  "drl_train": 41.095944519310535,
+  "pasos_mejor": 153600,
+  "minutos": 21.868339204788207
+}
